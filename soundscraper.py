@@ -5,7 +5,7 @@ import bs4
 import os
 
 #new&hot electronic 
-new_hot = "https://soundcloud.com/charts/new?genre=electronic&country=all-countries"
+new_url = "https://soundcloud.com/charts/new"
 top_url = "https://soundcloud.com/charts/top"
 track_url = "https://soundcloud.com/search/sounds?q="
 artist_url = "https://soundcloud.com/search/people?q="

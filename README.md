@@ -1,5 +1,4 @@
 # python-web-scrape-with-soundcloud
 
-Custom Soundcloud music search using selenium & beautifulsoup
+Custom Soundcloud music search project using selenium & beautifulsoup (in progress) *original by inanase 
 
-in progress
